@@ -6,20 +6,17 @@
   * [Usage](#Usage)
   * [License](#License)
   * [Contributing](#Contributing)
-  * [Tests](#Tests)
   * [Questions](#questions)
 ## Description
-  An app to help user find a recipe based on ingredient searched
+  An app to help user find recipes based on ingredient searched
 ## Installation
-go to my github [here](here)
+go to this website here [here](here)
 ## Usage
-type the name of an ingredient in the search box
+enter the name of an ingredient in the search box
 ## License
 Public Domain
 ## Contributing
-clone the repo from my github account
-## Tests
-open the html file in your terminal after cloning the repo
+clone the repo to your terminal
 ## Questions
 [You can see more projects I have created here](https://github.com/salgorog/) 
 [You may email me here salgorog@hotmail.com](mailto:salgorog@hotmail.com)
